@@ -20,7 +20,3 @@ If you find this analysis useful, please cite the associated paper when publishe
 Contact: [go.daniel@javeriana.edu.co]
 
 ---
-
-Thanks for your interest! Contributions, suggestions or questions are welcome.
-
-Translated with DeepL.com (free version)
